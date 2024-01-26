@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="gestion-certificats-residence" />
+        <module name="gestion-actes-mariage" />
+        <module name="gestion-certificats-vie-individuelle" />
+        <module name="gestion-actes-naissance" />
+        <module name="gestion-certificats-indigence" />
+        <module name="gestion-users" />
+        <module name="gateway-gestion-etat-civil" />
+        <module name="backend" />
+        <module name="gestion-certificats-domicile" />
+        <module name="gestion-certificats-vie-collective" />
+        <module name="gestion-copie-litterale" />
+        <module name="gestion-actes-deces" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="backend" options="-parameters" />
+      <module name="gateway-gestion-etat-civil" options="-parameters" />
+      <module name="gestion-actes-deces" options="-parameters" />
+      <module name="gestion-actes-mariage" options="-parameters" />
+      <module name="gestion-actes-naissance" options="-parameters" />
+      <module name="gestion-certificats-domicile" options="-parameters" />
+      <module name="gestion-certificats-indigence" options="-parameters" />
+      <module name="gestion-certificats-residence" options="-parameters" />
+      <module name="gestion-certificats-vie-collective" options="-parameters" />
+      <module name="gestion-certificats-vie-individuelle" options="-parameters" />
+      <module name="gestion-copie-litterale" options="-parameters" />
+      <module name="gestion-users" options="-parameters" />
+    </option>
+  </component>
+</project>
