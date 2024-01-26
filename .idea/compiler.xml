@@ -6,20 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="gestion-certificats-residence" />
         <module name="gestion-actes-mariage" />
+        <module name="gestion-certificats-residence" />
         <module name="gestion-certificats-vie-individuelle" />
         <module name="gestion-actes-naissance" />
         <module name="gestion-certificats-indigence" />
         <module name="gestion-users" />
-        <module name="gateway-gestion-etat-civil" />
         <module name="backend" />
         <module name="gestion-certificats-domicile" />
-        <module name="gestion-certificats-vie-collective" />
         <module name="gestion-copie-litterale" />
+        <module name="gestion-certificats-vie-collective" />
         <module name="gestion-actes-deces" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="gateway-gestion-etat-civil" target="17" />
+    </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">

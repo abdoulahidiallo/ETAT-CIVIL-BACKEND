@@ -47,22 +47,20 @@
 	<!--  -->
 	<modules>
 		    <!--MODULES-->
-        <module>modules/ms-api-gateway</module>
-        <module>modules/ms-authorization-service</module>
-        <module>modules/ms-cloud-config</module>
-        <module>modules/ms-discovery-service</module>
-        <module>modules/ms-database-migration-service</module>
+        <module>api-gateway</module>
+        <module>cloud-config</module>
+        <module>discovery-service</module>
            <!--SERVICES-->
-        <module>services/gestion-actes-deces</module>
-        <module>services/gestion-actes-mariage</module>
-        <module>services/gestion-actes-naissance</module>
-        <module>services/gestion-certificats-domicile</module>
-        <module>services/gestion-certificats-indigence</module>
-        <module>services/gestion-certificats-residence</module>
-        <module>services/gestion-certificats-vie-collective</module>
-        <module>services/gestion-certificats-vie-individuelle</module>
-        <module>services/gestion-copie-litterale</module>
-        <module>services/gestion-users</module>
+        <module>gestion-actes-deces</module>
+        <module>gestion-actes-mariage</module>
+        <module>gestion-actes-naissance</module>
+        <module>gestion-certificats-domicile</module>
+        <module>gestion-certificats-indigence</module>
+        <module>gestion-certificats-residence</module>
+        <module>gestion-certificats-vie-collective</module>
+        <module>gestion-certificats-vie-individuelle</module>
+        <module>gestion-copie-litterale</module>
+        <module>gestion-users</module>
     </modules>
 	<!-- FIN MODULE -->
 

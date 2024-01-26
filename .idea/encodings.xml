@@ -12,5 +12,15 @@
     <file url="file://$PROJECT_DIR$/gestion-certificats-vie-individuelle/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gestion-copie-litterale/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/gestion-users/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-actes-deces/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-actes-mariage/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-actes-naissance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-certificats-domicile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-certificats-indigence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-certificats-residence/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-certificats-vie-collective/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-certificats-vie-individuelle/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-copie-litterale/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/services/gestion-users/src/main/java" charset="UTF-8" />
   </component>
 </project>
