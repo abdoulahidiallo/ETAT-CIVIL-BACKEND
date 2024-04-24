@@ -42,4 +42,17 @@ public class User {
 
     @Column(name = "password", length = 100)
     private String password;
+
+    //
+
+    public User(String prenom, String nom, String contact, String service, String role, String email, String username, String password) {
+        this.prenom = prenom;
+        this.nom = nom;
+        this.contact = contact;
+        this.service = service;
+        this.role = role;
+        this.email = email;
+        this.username = username;
+        this.password = password;
+    }
 }
